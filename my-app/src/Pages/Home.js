@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 
 
-function Main() {
+function Home() {
 
 
 
@@ -63,4 +63,4 @@ function Main() {
     )
 }
 
-export default Main;
+export default Home;
