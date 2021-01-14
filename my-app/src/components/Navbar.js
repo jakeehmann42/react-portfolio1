@@ -12,7 +12,6 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav mx-auto">
 
-                        <Link className="nav-link text-white" to="/">GJB</Link>
                         <Link className="nav-link text-white" to="/About">About</Link>
                         <Link className="nav-link text-white" to="/Portfolio">Portfolio</Link>
                         <Link className="nav-link text-white" to="/Contact">Contact</Link>
